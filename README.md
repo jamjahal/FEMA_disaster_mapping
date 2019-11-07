@@ -104,26 +104,49 @@ ___
 **Software Requirements**
 ___
 spacy                        2.0.12
+
 pandas                       0.25.1
+
 re
+
 collections
+
 numpy                        1.17.2
+
 usaddresses
+
 requests                     2.22.0
+
 os
+
 io
+
 time
+
 pydub
+
 google-cloud                 0.34.0
+
 scipy                         1.3.1
+
 bart
+
 datetime
+
 beautifulsoup4                4.8.0
+
 folium                       0.10.0
+
 geopandas                     0.6.1
+
 ast
+
 json
+
 logging
+
 pickle
+
 multiprocessing
+
 six
