@@ -20,6 +20,7 @@ Process
 
 ## Data Description
 
+<<<<<<< HEAD
 The data used for this project is from the San Francisco City Police Dispatch, aiming to automate and decrease response times on requests through police radio.
 
 The model was created and trained on this data with the goal that we would
@@ -121,3 +122,6 @@ beautifulsoup4          4.8.0
 folium                 0.10.0
 geopandas               0.6.1
 ast
+=======
+### Next Steps and Model Improvement:
+>>>>>>> 18fb9b5c52e5089fc27959578e4696be8625a0fb
