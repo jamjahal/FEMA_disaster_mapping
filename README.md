@@ -89,11 +89,11 @@ Once we acquired the latitude and longitude for incident points, we were faced w
 
 To simulate the high-volume of calls to emergency services in a disaster-event, we used historic crime data to demonstrate the possibilities of the mapping portion of the project. Two maps were constructed: one to give the detail for each individual reported point, and one to show neighborhood frequency of reports.
 
-![alt text](images/map1-1.png "Folium Cluster Map")
-![alt text](images/map1-2.png "Folium Cluster Map - Zoom")
+![alt text](./images/map1-1.png "Folium Cluster Map")
+![alt text](./images/map1-2.png "Folium Cluster Map - Zoom")
 
-![alt text](images/map2-1.png "Folium Heatmap")
-![alt text](images/map2-2.png "Folium Heatmap - Zoom")
+![alt text](./images/map2-1.png "Folium Heatmap")
+![alt text](./images/map2-2.png "Folium Heatmap - Zoom")
 
 These maps show intricate details of each dispatch call, including incident number, incident time, incident type, and the location of the incident. Each of these points is codified for urgency with colors to indicate the nature of the incident. In the example map, violent crimes are codified with red and are considered more severe than crimes like public intoxication. In a disaster-event, categories should be defined for each type of anticipated disaster to give emergency responders an idea of neighborhoods requiring the most attention.
 
